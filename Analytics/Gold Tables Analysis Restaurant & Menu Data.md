@@ -1,5 +1,6 @@
 # Table Overview
 
+</>SQL
 SELECT
   'gold_cuisine_by_city' as table_name,
   COUNT(*) as row_count,
