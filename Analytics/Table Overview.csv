@@ -1,0 +1,6 @@
+table_name,row_count,unique_cities,unique_cuisines,total_restaurants
+gold_cuisine_by_city,565,565,22,32105
+gold_city_by_cuisine,194,85,194,6145
+gold_price_analysis_by_cuisine,194,NULL,194,165147
+gold_restaurant_price_by_city,565,565,NULL,165147
+gold_menu_price_by_city,566,566,NULL,11251106
